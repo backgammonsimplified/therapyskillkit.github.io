@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Describe how you are feeling and get links to relevant Therapy Skill Kit lessons.">
+  <title>Skills Finder | Therapy Skill Kit</title>
+  <link rel="stylesheet" href="../styles.css">
+  <script src="../app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="nav-shell">
+      <a class="brand" href="../" aria-label="Therapy Skill Kit home"><span class="brand-mark" aria-hidden="true">TSK</span><span>Therapy Skill Kit</span></a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
+        <a href="../">Home</a><a href="../learn/">Learn</a><a class="active" href="./">Skills Finder</a><a href="../#about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="subpage-hero page-shell">
+      <p class="eyebrow">SKILLS FINDER</p>
+      <h1>Start with what you are feeling.</h1>
+      <p class="hero-copy">Choose what fits, add a few words if you want, and get links to skills that may be useful to learn or practice. The finder runs in your browser and does not send or save what you type.</p>
+    </section>
+
+    <section class="page-shell finder-shell" aria-label="Skills Finder app">
+      <form class="finder-panel" id="skills-finder-form">
+        <p class="eyebrow">YOUR INPUT</p>
+        <h2>What is happening right now?</h2>
+        <p>You can choose more than one feeling. There is no need to be precise.</p>
+
+        <div class="form-section">
+          <span class="form-label">What fits best?</span>
+          <div class="feeling-grid">
+            <span class="feeling-chip"><input id="feel-anxious" type="checkbox" name="feeling" value="anxious"><label for="feel-anxious">Anxious</label></span>
+            <span class="feeling-chip"><input id="feel-overwhelmed" type="checkbox" name="feeling" value="overwhelmed"><label for="feel-overwhelmed">Overwhelmed</label></span>
+            <span class="feeling-chip"><input id="feel-angry" type="checkbox" name="feeling" value="angry"><label for="feel-angry">Angry</label></span>
+            <span class="feeling-chip"><input id="feel-sad" type="checkbox" name="feeling" value="sad"><label for="feel-sad">Sad or low</label></span>
+            <span class="feeling-chip"><input id="feel-numb" type="checkbox" name="feeling" value="numb"><label for="feel-numb">Numb or disconnected</label></span>
+            <span class="feeling-chip"><input id="feel-lonely" type="checkbox" name="feeling" value="lonely"><label for="feel-lonely">Lonely</label></span>
+            <span class="feeling-chip"><input id="feel-stuck" type="checkbox" name="feeling" value="stuck"><label for="feel-stuck">Stuck or unmotivated</label></span>
+            <span class="feeling-chip"><input id="feel-shame" type="checkbox" name="feeling" value="shame"><label for="feel-shame">Ashamed or self-critical</label></span>
+            <span class="feeling-chip"><input id="feel-conflict" type="checkbox" name="feeling" value="conflict"><label for="feel-conflict">In conflict</label></span>
+            <span class="feeling-chip"><input id="feel-urges" type="checkbox" name="feeling" value="urges"><label for="feel-urges">Strong urges or impulsive</label></span>
+          </div>
+        </div>
+
+        <div class="form-section">
+          <label class="form-label" for="notes">Describe it in your own words <span class="when">(optional)</span></label>
+          <textarea id="notes" name="notes" placeholder="For example: I keep replaying a conversation, I feel tense, and I want to send an angry message."></textarea>
+          <p class="privacy-note">This tool uses simple matching in your browser. Your text is not transmitted or stored by the site.</p>
+        </div>
+
+        <div class="form-section">
+          <label class="form-label" for="intensity">How intense is it right now?</label>
+          <div class="range-row"><span>Low</span><input id="intensity" name="intensity" type="range" min="1" max="5" step="1" value="3"><span>High</span></div>
+        </div>
+
+        <div class="finder-actions">
+          <button class="primary-action" type="submit">Find skills</button>
+          <button class="secondary-action" type="reset">Clear</button>
+        </div>
+      </form>
+
+      <section class="results-panel" id="finder-results" tabindex="-1" aria-live="polite" aria-atomic="true">
+        <p class="eyebrow">RESULTS</p>
+        <h2>Your suggestions will appear here</h2>
+        <p class="results-empty">Choose any feelings that fit, add a few words if you want, then select “Find skills.”</p>
+      </section>
+    </section>
+
+    <section class="page-shell callout" aria-labelledby="finder-note-title">
+      <div><p class="eyebrow">HOW TO USE IT</p><h2 id="finder-note-title">A starting point, not a diagnosis</h2></div>
+      <div class="callout-copy"><p>The finder does not evaluate mental health conditions. It simply matches your selections and words to relevant lessons in this site.</p><p>If you are in immediate danger or may act on thoughts of suicide or self-harm, contact your local emergency services or go to the nearest emergency department.</p></div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="page-shell footer-grid"><p>© <span data-current-year>2026</span> Therapy Skill Kit</p><p>Private-by-design, browser-only skill matching.</p><div class="footer-links"><a href="../">Home</a><a href="../learn/">Learn</a></div></div></footer>
+</body>
+</html>
