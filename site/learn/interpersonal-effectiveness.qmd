@@ -1,0 +1,56 @@
+---
+title: "Interpersonal effectiveness"
+description: "Skills for requests, boundaries, self-respect, conflict, and repair."
+---
+
+::: {.tsk-page-lede}
+Relationship skills work best when you know which outcome matters most: getting an objective met, protecting the relationship, or maintaining self-respect. Often all three matter, but not equally in every conversation.
+:::
+
+## DEAR MAN {#dear-man}
+
+Use this structure when you need to make a clear request or set a limit.
+
+- **Describe** the relevant facts without adding a long case against the other person.
+- **Express** your feelings or perspective clearly.
+- **Assert** what you are asking for, or what you are saying no to.
+- **Reinforce** why cooperation would help.
+- **Mindfully** return to the main point if the conversation drifts.
+- **Appear confident** through a steady pace, clear wording, and workable posture.
+- **Negotiate** when there is room for a different solution that still meets the core need.
+
+The structure is a preparation tool, not a script that must sound formal.
+
+## GIVE {#give}
+
+Use GIVE when preserving the relationship is especially important.
+
+- **Gentle:** reduce unnecessary attacks, threats, or contempt.
+- **Interested:** show attention to what the other person is saying.
+- **Validate:** acknowledge understandable parts of their experience, even if you disagree with the conclusion.
+- **Easy manner:** when appropriate, reduce intensity with warmth or flexibility.
+
+Validation is not agreement. It communicates that you can see how something makes sense from another person's position.
+
+## FAST {#fast}
+
+Use FAST when self-respect is the priority.
+
+- **Fair:** be fair to yourself and the other person.
+- **Apologies:** avoid apologizing merely for having a reasonable need, boundary, or opinion.
+- **Stick to values:** do not trade away an important value only to end discomfort.
+- **Truthful:** avoid exaggeration, excuses, or claims you cannot support.
+
+## Repair after conflict {#repair}
+
+A repair attempt can be simple:
+
+1. Name what happened without relitigating every detail.
+2. Take responsibility for your part specifically.
+3. State what you wish you had done differently.
+4. Ask what would help now.
+5. Make one concrete change if a change is needed.
+
+::: {.tsk-note}
+Interpersonal skills are not meant to make unsafe relationships safe. If a conversation involves threats, coercion, stalking, or violence, the relevant next step may be safety planning and outside support rather than better communication technique.
+:::
