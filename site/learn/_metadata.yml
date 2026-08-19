@@ -1,0 +1,5 @@
+sidebar: learn
+page-navigation: true
+format:
+  html:
+    body-classes: "tsk-learn-page"
