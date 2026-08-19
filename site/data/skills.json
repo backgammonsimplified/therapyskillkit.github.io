@@ -1,0 +1,172 @@
+[
+  {
+    "id": "stop",
+    "title": "STOP",
+    "category": "Distress tolerance",
+    "href": "../learn/distress-tolerance.html#stop",
+    "description": "Interrupt an automatic reaction and create a pause before choosing what to do.",
+    "feelings": ["overwhelmed", "angry", "impulsive", "anxious"],
+    "keywords": ["react", "explode", "impulsive", "urge", "argument", "panic"],
+    "intensity": [6, 10]
+  },
+  {
+    "id": "paced-breathing",
+    "title": "Paced breathing",
+    "category": "Distress tolerance",
+    "href": "../learn/distress-tolerance.html#paced-breathing",
+    "description": "Use a gentle slower breathing rhythm as a short physiological reset.",
+    "feelings": ["anxious", "overwhelmed", "angry"],
+    "keywords": ["panic", "racing", "heart", "tense", "breathing", "activated"],
+    "intensity": [5, 10]
+  },
+  {
+    "id": "grounding",
+    "title": "Grounding through the senses",
+    "category": "Distress tolerance",
+    "href": "../learn/distress-tolerance.html#grounding",
+    "description": "Orient attention to concrete sensory information in the present environment.",
+    "feelings": ["overwhelmed", "numb", "anxious"],
+    "keywords": ["dissociate", "unreal", "spiral", "overwhelmed", "numb", "panicked"],
+    "intensity": [5, 10]
+  },
+  {
+    "id": "urge-surfing",
+    "title": "Urge surfing",
+    "category": "Distress tolerance",
+    "href": "../learn/distress-tolerance.html#urge-surfing",
+    "description": "Observe an urge changing over time without acting on it immediately.",
+    "feelings": ["impulsive", "angry", "overwhelmed"],
+    "keywords": ["urge", "craving", "impulse", "text them", "buy", "drink", "lash out"],
+    "intensity": [5, 10]
+  },
+  {
+    "id": "observe-describe",
+    "title": "Observe and describe",
+    "category": "Mindfulness",
+    "href": "../learn/mindfulness.html#observe-describe",
+    "description": "Separate what you notice from the story or interpretation around it.",
+    "feelings": ["anxious", "ashamed", "angry", "stuck"],
+    "keywords": ["confused", "thoughts", "story", "judging", "ruminating", "spiral"],
+    "intensity": [2, 8]
+  },
+  {
+    "id": "wise-mind",
+    "title": "Wise-mind check-in",
+    "category": "Mindfulness",
+    "href": "../learn/mindfulness.html#wise-mind-check-in",
+    "description": "Integrate emotional information with facts, constraints, and longer-term goals.",
+    "feelings": ["stuck", "conflicted", "angry", "anxious"],
+    "keywords": ["decision", "conflicted", "don't know", "choice", "what should i do"],
+    "intensity": [2, 7]
+  },
+  {
+    "id": "check-facts",
+    "title": "Check the facts",
+    "category": "Emotion regulation",
+    "href": "../learn/emotion-regulation.html#check-the-facts",
+    "description": "Separate observable facts from assumptions, predictions, and mind-reading.",
+    "feelings": ["anxious", "angry", "ashamed", "jealous"],
+    "keywords": ["assuming", "they hate me", "worried", "rejected", "jealous", "catastrophe"],
+    "intensity": [2, 8]
+  },
+  {
+    "id": "opposite-action",
+    "title": "Opposite action",
+    "category": "Emotion regulation",
+    "href": "../learn/emotion-regulation.html#opposite-action",
+    "description": "Act against an ineffective emotional urge when the facts support a different response.",
+    "feelings": ["low", "ashamed", "anxious", "angry"],
+    "keywords": ["avoid", "hide", "withdraw", "cancel", "attack", "can't face"],
+    "intensity": [2, 7]
+  },
+  {
+    "id": "thought-record",
+    "title": "Thought record",
+    "category": "CBT",
+    "href": "../learn/cbt-skills.html#thought-record",
+    "description": "Map a situation, automatic thought, evidence, balanced view, and next action.",
+    "feelings": ["anxious", "ashamed", "stuck", "low"],
+    "keywords": ["thought", "failure", "worthless", "always", "never", "ruminating"],
+    "intensity": [1, 7]
+  },
+  {
+    "id": "behavioral-activation",
+    "title": "Behavioral activation",
+    "category": "CBT",
+    "href": "../learn/cbt-skills.html#behavioral-activation",
+    "description": "Schedule one manageable activity instead of waiting for motivation to return first.",
+    "feelings": ["low", "numb", "stuck", "lonely"],
+    "keywords": ["depressed", "nothing", "motivation", "bed", "isolated", "can't start"],
+    "intensity": [1, 7]
+  },
+  {
+    "id": "test-prediction",
+    "title": "Test the prediction",
+    "category": "CBT",
+    "href": "../learn/cbt-skills.html#test-the-prediction",
+    "description": "Turn a feared prediction into a small, safe experiment that produces real information.",
+    "feelings": ["anxious", "stuck", "ashamed"],
+    "keywords": ["what if", "everyone", "embarrass", "fail", "judge me", "prediction"],
+    "intensity": [1, 6]
+  },
+  {
+    "id": "dear-man",
+    "title": "DEAR MAN",
+    "category": "Interpersonal effectiveness",
+    "href": "../learn/interpersonal-effectiveness.html#dear-man",
+    "description": "Prepare a clear request, refusal, or boundary while staying focused on the objective.",
+    "feelings": ["conflicted", "angry", "anxious", "lonely"],
+    "keywords": ["ask", "say no", "boundary", "boss", "partner", "request", "conflict"],
+    "intensity": [1, 7]
+  },
+  {
+    "id": "repair",
+    "title": "Repair after conflict",
+    "category": "Interpersonal effectiveness",
+    "href": "../learn/interpersonal-effectiveness.html#repair",
+    "description": "Take responsibility for your part and make a concrete repair attempt.",
+    "feelings": ["ashamed", "lonely", "conflicted", "angry"],
+    "keywords": ["fight", "argument", "sorry", "hurt them", "repair", "apologize"],
+    "intensity": [1, 7]
+  },
+  {
+    "id": "tiny-step",
+    "title": "Tiny next step",
+    "category": "Goal setting",
+    "href": "../learn/goal-setting.html#tiny-next-step",
+    "description": "Shrink a task until the next action is clear enough to begin.",
+    "feelings": ["stuck", "overwhelmed", "low"],
+    "keywords": ["procrastinate", "task", "deadline", "start", "too much", "overwhelmed"],
+    "intensity": [1, 6]
+  },
+  {
+    "id": "if-then",
+    "title": "Implementation intention",
+    "category": "Goal setting",
+    "href": "../learn/goal-setting.html#implementation-intention",
+    "description": "Attach a specific action to a recognizable cue using an if-then plan.",
+    "feelings": ["stuck"],
+    "keywords": ["habit", "remember", "routine", "follow through", "plan", "goal"],
+    "intensity": [1, 5]
+  },
+  {
+    "id": "basic-needs",
+    "title": "Basic-needs check",
+    "category": "Wellness",
+    "href": "../learn/wellness.html#basic-needs-check",
+    "description": "Check food, water, sleep, pain, illness, medication routines, isolation, and overstimulation.",
+    "feelings": ["overwhelmed", "angry", "low", "numb"],
+    "keywords": ["tired", "hungry", "exhausted", "headache", "sleep", "drained"],
+    "intensity": [1, 8]
+  },
+  {
+    "id": "creative-reset",
+    "title": "Creative reset",
+    "category": "Recreativity",
+    "href": "../learn/recreativity.html#creative-reset",
+    "description": "Use a short, low-stakes making activity to shift attention and restore flexibility.",
+    "feelings": ["numb", "stuck", "low", "lonely"],
+    "keywords": ["bored", "flat", "creative", "same", "stale", "nothing interests me"],
+    "intensity": [1, 5]
+  }
+]
