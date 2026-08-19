@@ -1,0 +1,35 @@
+---
+title: "Learn"
+description: "Browse practical skills for goals, distress, mindfulness, relationships, wellness, emotions, creativity, and thinking patterns."
+toc: false
+---
+
+::: {.tsk-page-lede}
+Use this library to understand a skill before trying it. Start with the area that best matches the problem in front of you, not the label you think you should use.
+:::
+
+## Start with the map
+
+:::: {.tsk-grid}
+[<span class="tsk-card-title">Tools overview</span><span class="tsk-card-copy">A quick map of the library and how to choose between tools.</span>](tools-overview.qmd){.tsk-card}
+
+[<span class="tsk-card-title">Goal setting</span><span class="tsk-card-copy">Define direction, shrink the next step, and create follow-through.</span>](goal-setting.qmd){.tsk-card}
+
+[<span class="tsk-card-title">Distress tolerance</span><span class="tsk-card-copy">Get through intense moments without making the situation worse.</span>](distress-tolerance.qmd){.tsk-card}
+
+[<span class="tsk-card-title">Mindfulness</span><span class="tsk-card-copy">Notice what is happening and return attention to the present.</span>](mindfulness.qmd){.tsk-card}
+
+[<span class="tsk-card-title">Interpersonal effectiveness</span><span class="tsk-card-copy">Ask, say no, repair, and protect both goals and relationships.</span>](interpersonal-effectiveness.qmd){.tsk-card}
+
+[<span class="tsk-card-title">Wellness</span><span class="tsk-card-copy">Support the basics that make every other skill easier to use.</span>](wellness.qmd){.tsk-card}
+
+[<span class="tsk-card-title">Emotion regulation</span><span class="tsk-card-copy">Understand emotions, check the situation, and choose an effective response.</span>](emotion-regulation.qmd){.tsk-card}
+
+[<span class="tsk-card-title">Recreativity</span><span class="tsk-card-copy">Use play, curiosity, making, and novelty to widen your behavioral options.</span>](recreativity.qmd){.tsk-card}
+
+[<span class="tsk-card-title">CBT skills</span><span class="tsk-card-copy">Examine thoughts, test predictions, and change patterns through action.</span>](cbt-skills.qmd){.tsk-card}
+::::
+
+## Prefer a recommendation?
+
+The [Skills Finder](../skills-finder/index.qmd) asks about the current feeling, intensity, and situation, then links back into these pages. It runs in the browser and is meant to help choose learning material, not diagnose a condition.
