@@ -1,0 +1,13 @@
+---
+title: "Page not found"
+page-layout: full
+toc: false
+---
+
+:::::::: {.tsk-section}
+# Page not found
+
+The page may have moved as the skill library develops.
+
+[Go to Learn](learn/index.qmd) or [open the Skills Finder](skills-finder/index.qmd).
+::::::::
