@@ -1,0 +1,51 @@
+---
+title: "Mindfulness"
+description: "Practice noticing the present moment with more precision and less automatic reaction."
+---
+
+::: {.tsk-page-lede}
+Mindfulness is attention practice. It helps create a little more choice between what happens and how you respond. The aim is not to empty the mind or force calm.
+:::
+
+## Observe and describe {#observe-describe}
+
+Start by separating observation from interpretation.
+
+**Observe:** notice a sensation, image, sound, thought, emotion, or urge.
+
+**Describe:** put simple words to what you noticed.
+
+Examples:
+
+- "My chest feels tight."
+- "I am having the thought that this will go badly."
+- "I notice an urge to leave."
+- "The room is noisy and I am losing track of the conversation."
+
+Precise description can reduce the pressure to treat every thought as a fact or every feeling as an instruction.
+
+## One-mindfully {#one-mindfully}
+
+Choose one activity and do only that activity for a short period.
+
+If you are washing a mug, wash the mug. If you are walking, feel the steps and look where you are going. If you are listening, return attention to the speaker when you notice it drifting.
+
+When attention wanders, the practice is the return.
+
+## Wise-mind check-in {#wise-mind-check-in}
+
+Use this as a brief decision pause:
+
+1. What does the emotional part of me want right now?
+2. What facts, constraints, and longer-term consequences matter?
+3. What response respects both the emotion and the reality of the situation?
+
+This is not about choosing emotion or logic. It is about integrating information from both.
+
+## Three-minute practice
+
+For one minute, notice breathing and body sensations. For the next minute, notice thoughts and feelings as events that are occurring. For the final minute, widen attention to the room and ask what the next effective action is.
+
+::: {.tsk-note}
+Mindfulness can be practiced with eyes open, while moving, or through sensory grounding. Sitting still with internal sensations is not the only valid format.
+:::
