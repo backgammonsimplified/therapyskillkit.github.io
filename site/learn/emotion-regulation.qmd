@@ -1,0 +1,50 @@
+---
+title: "Emotion regulation"
+description: "Identify emotions, check what fits the situation, and choose an effective response."
+---
+
+::: {.tsk-page-lede}
+Emotion regulation starts with understanding what an emotion is signaling and whether the action urge fits the facts. The goal is not to eliminate emotion, but to respond with more flexibility.
+:::
+
+## Name the emotion {#name-the-emotion}
+
+Use the most specific label you can reasonably identify: anxious, disappointed, ashamed, irritated, lonely, jealous, relieved, sad, excited, or something else.
+
+Then separate four parts:
+
+1. What happened?
+2. What meaning did I give it?
+3. What changed in my body?
+4. What do I feel pulled to do?
+
+This creates a map of the emotion instead of treating it as one indivisible event.
+
+## Check the facts {#check-the-facts}
+
+Ask whether the intensity and action urge fit the situation as you currently understand it.
+
+- What facts can I observe directly?
+- What am I assuming, predicting, or mind-reading?
+- Are there other plausible explanations?
+- What is the actual threat, loss, rejection, or obstacle?
+- If the feared outcome happened, what could I realistically do next?
+
+Checking the facts does not mean arguing yourself out of every feeling. Sometimes the facts support the emotion and point toward problem solving or a boundary.
+
+## Opposite action {#opposite-action}
+
+Use opposite action when an emotion's action urge does not fit the facts or is not effective for your goals.
+
+Examples:
+
+- Anxiety says avoid, but the situation is safe enough: approach in a manageable step.
+- Shame says hide after a minor mistake: acknowledge the mistake and stay engaged.
+- Low mood says withdraw from everything: do one planned activity before deciding whether to cancel the rest of the day.
+- Unjustified anger says attack: slow the voice, unclench the body, and communicate the actual issue.
+
+The action should be opposite to the ineffective urge, not reckless or unsafe.
+
+## Reduce vulnerability over time
+
+Emotion regulation is easier when the baseline system is supported. Use [Wellness](wellness.qmd), [Goal setting](goal-setting.qmd), and [Recreativity](recreativity.qmd) to build conditions that make effective responses more available.
