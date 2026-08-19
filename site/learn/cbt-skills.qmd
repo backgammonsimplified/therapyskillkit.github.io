@@ -1,0 +1,60 @@
+---
+title: "CBT skills"
+description: "Examine thoughts, test predictions, solve problems, and change patterns through action."
+---
+
+::: {.tsk-page-lede}
+CBT skills look at the relationship between situations, interpretations, emotions, physical responses, and behavior. A useful question is not only "Is this thought true?" but also "What evidence can I gather, and what action would help me learn more?"
+:::
+
+## Thought record {#thought-record}
+
+Use a compact thought record when a situation triggers a strong reaction.
+
+1. **Situation:** What happened, in observable terms?
+2. **Emotion:** What did you feel, and how strong was it?
+3. **Automatic thought:** What went through your mind?
+4. **Evidence for:** What genuinely supports the thought?
+5. **Evidence against or missing:** What does not fit, or what information do you not have?
+6. **Balanced view:** What explanation accounts for more of the evidence?
+7. **Next action:** What would be useful to do now?
+
+The balanced view should be credible, not artificially positive.
+
+## Test the prediction {#test-the-prediction}
+
+When a belief is framed as a prediction, design a small experiment.
+
+Example: "If I ask one question in the meeting, everyone will think I am incompetent."
+
+A test might be to prepare one relevant question, ask it, and record what actually happens. Beforehand, write down the predicted outcome and probability. Afterward, compare the prediction with the observations.
+
+Use experiments that are proportionate and safe. The aim is to gather information, not prove yourself wrong at any cost.
+
+## Behavioral activation {#behavioral-activation}
+
+When low mood leads to withdrawal, reduced activity can remove sources of structure, pleasure, connection, and accomplishment.
+
+Choose one activity that is:
+
+- specific,
+- small enough to start,
+- scheduled rather than left to mood,
+- connected to pleasure, mastery, connection, or routine.
+
+Do the activity first, then rate what happened to mood, energy, or sense of accomplishment. Improvement does not need to be dramatic for the experiment to be useful.
+
+## Structured problem solving {#problem-solving}
+
+For a practical problem:
+
+1. Define the problem narrowly.
+2. List several possible responses without judging them immediately.
+3. Compare likely costs, benefits, and constraints.
+4. Choose one option to test.
+5. Define the first action and when it will happen.
+6. Review the result and revise.
+
+::: {.tsk-note}
+CBT is not simply "thinking positively." The useful work is clearer observation, more accurate interpretation, and behavior that generates better information or better outcomes.
+:::
