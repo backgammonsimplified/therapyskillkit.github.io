@@ -1,0 +1,54 @@
+---
+title: "Distress tolerance"
+description: "Short skills for getting through intense moments without making the situation worse."
+---
+
+::: {.tsk-page-lede}
+Distress-tolerance skills are for moments when solving the whole problem is not immediately possible. The goal is to create enough space to avoid an impulsive response and choose what happens next.
+:::
+
+## STOP {#stop}
+
+Use STOP when you notice an urge to react quickly.
+
+1. **Stop.** Do not make the next move automatically.
+2. **Take a step back.** Pause physically or mentally. If possible, create a little distance from the trigger.
+3. **Observe.** Notice body sensations, emotions, thoughts, urges, and what is happening around you.
+4. **Proceed mindfully.** Choose the next action based on the situation and your longer-term goals.
+
+STOP does not require the feeling to disappear. It interrupts the handoff from feeling to action.
+
+## Paced breathing {#paced-breathing}
+
+Try a gentle breathing rhythm with an exhale that is slightly longer than the inhale. For example, inhale comfortably for about four counts and exhale for about six. Do not force a deep breath or continue if you feel lightheaded.
+
+Use one or two minutes as a short reset, then reassess the situation.
+
+## Grounding through the senses {#grounding}
+
+Grounding shifts attention toward concrete information in the present environment.
+
+Try naming:
+
+- five things you can see,
+- four things you can physically feel,
+- three sounds you can hear,
+- two things you can smell or remember smelling,
+- one thing you can taste or one slow breath you can notice.
+
+The exact count is not important. The useful part is orienting attention to specific sensory details.
+
+## Urge surfing {#urge-surfing}
+
+An urge can rise, peak, change, and fall without being acted on immediately.
+
+1. Name the urge without arguing with it.
+2. Notice where it shows up in the body.
+3. Watch the intensity change for a few minutes.
+4. Delay action while choosing a safer or more effective next step.
+
+You can pair urge surfing with movement, grounding, or removing easy access to something you are trying not to do.
+
+::: {.tsk-note}
+If the situation involves immediate danger or a medical emergency, use appropriate local emergency support rather than relying on a self-guided skill.
+:::
