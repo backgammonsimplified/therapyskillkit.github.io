@@ -1,0 +1,30 @@
+---
+title: "About"
+description: "About Therapy Skill Kit and the reusable Quarto template behind it."
+---
+
+Therapy Skill Kit is a source-first Quarto website for practical psychological skills education.
+
+## What is included
+
+The initial content covers goal setting, a tools overview, distress tolerance, mindfulness, interpersonal effectiveness, wellness, emotion regulation, recreativity, and CBT skills. The Skills Finder is a browser-side app that maps a person's description of the moment to relevant learning pages.
+
+## Template architecture
+
+The repository is intentionally organized so it can be reused for another learning site:
+
+- `site/_quarto.yml` controls the website shell and top navigation.
+- `site/_learn-navigation.yml` controls the Learn sidebar.
+- `site/learn/*.qmd` contains authored lessons.
+- `site/data/skills.json` is the Skills Finder catalog.
+- `site/assets/` contains reusable theme, components, and browser JavaScript.
+- `scripts/` contains build, preview, and validation helpers.
+- `.github/workflows/pages.yml` renders the Quarto source and deploys `site/_site`.
+
+## Content approach
+
+The material uses original explanatory language and short practice instructions. It does not reproduce proprietary worksheets or replace a clinician's judgment. Named techniques are presented as educational summaries so readers can understand the idea and decide whether to learn more with a qualified professional.
+
+## Safety
+
+This site is for skills learning, not emergency support. If someone may be in immediate danger, they should use local emergency services or an appropriate crisis resource in their location.
