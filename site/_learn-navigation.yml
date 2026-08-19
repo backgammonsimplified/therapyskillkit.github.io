@@ -1,0 +1,24 @@
+website:
+  sidebar:
+    - id: learn
+      title: "Learn"
+      style: floating
+      search: false
+      collapse-level: 2
+      contents:
+        - learn/index.qmd
+        - learn/tools-overview.qmd
+        - section: "Build direction"
+          contents:
+            - learn/goal-setting.qmd
+            - learn/wellness.qmd
+            - learn/recreativity.qmd
+        - section: "Handle difficult moments"
+          contents:
+            - learn/distress-tolerance.qmd
+            - learn/mindfulness.qmd
+            - learn/emotion-regulation.qmd
+        - section: "Work with thoughts and relationships"
+          contents:
+            - learn/cbt-skills.qmd
+            - learn/interpersonal-effectiveness.qmd
