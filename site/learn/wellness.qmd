@@ -1,0 +1,51 @@
+---
+title: "Wellness"
+description: "Support the physical and environmental basics that make other skills easier to use."
+---
+
+::: {.tsk-page-lede}
+Wellness skills are not a cure-all. They are capacity supports. When sleep, food, movement, medication routines, or the environment are seriously disrupted, every other coping skill can become harder to access.
+:::
+
+## Basic-needs check {#basic-needs-check}
+
+Before interpreting a difficult moment only as a psychological problem, check the basics:
+
+- Have I eaten enough for the part of the day I am in?
+- Have I had water?
+- Am I exhausted or significantly sleep deprived?
+- Am I physically ill, in pain, overheated, or very cold?
+- Have I taken prescribed medication as directed, if applicable?
+- Have I been isolated or overstimulated for a long time?
+
+Choose one correctable item rather than trying to optimize everything at once.
+
+## Sleep routine {#sleep-routine}
+
+A useful sleep routine focuses on repeatable cues rather than forcing sleep.
+
+Try keeping the wake time reasonably consistent, reducing stimulating tasks close to bedtime, and creating a short sequence that signals the day is ending. If you are lying awake for a long time and becoming more frustrated, a quiet low-stimulation activity may be more useful than fighting with the bed.
+
+Persistent or severe sleep problems can have many causes and are worth discussing with a qualified health professional.
+
+## Movement {#movement}
+
+Movement can change energy, attention, and the sense of being stuck. The effective dose is the amount you can realistically do.
+
+Examples:
+
+- walk for five or ten minutes,
+- stretch while waiting for a kettle,
+- stand up and change rooms,
+- do a short mobility routine,
+- take stairs for one part of a trip.
+
+If you have medical limitations, pain, dizziness, or exercise restrictions, use guidance appropriate to your health situation.
+
+## Environment reset
+
+Reduce one source of unnecessary friction. Put the item you need where you will see it, silence one nonessential notification, clear enough space to begin a task, or prepare tomorrow's first step before stopping for the night.
+
+::: {.tsk-note}
+Wellness is not a moral scorecard. Use these checks to make the system easier to operate, not to create another standard to fail.
+:::
