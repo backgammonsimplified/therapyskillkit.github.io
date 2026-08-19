@@ -1,0 +1,51 @@
+---
+title: "Tools overview"
+description: "A map of the Therapy Skill Kit and a simple way to choose a skill."
+---
+
+::: {.tsk-page-lede}
+Different skills solve different problems. A grounding exercise is useful when arousal is high, but it will not replace a plan for a long-term goal. This page helps you choose the job before choosing the tool.
+:::
+
+## Choosing a tool {#choosing-a-tool}
+
+Start with three questions:
+
+1. **How activated am I?** If the intensity is very high, begin with distress tolerance, grounding, paced breathing, or a brief mindfulness skill.
+2. **Is this mainly an emotion, thought, relationship, or action problem?** Match the skill family to the part you can influence.
+3. **Do I need relief, understanding, communication, or movement?** A skill should have a clear job.
+
+## A practical sequence
+
+### 1. Stabilize
+
+When the nervous system is highly activated, use a short skill that reduces the chance of impulsive action. See [Distress tolerance](distress-tolerance.qmd) and [Mindfulness](mindfulness.qmd).
+
+### 2. Understand
+
+Once there is enough space to think, identify what is happening. Name the emotion, notice the thought, and check what the situation actually requires. See [Emotion regulation](emotion-regulation.qmd) and [CBT skills](cbt-skills.qmd).
+
+### 3. Act effectively
+
+Choose a behavior that moves the situation in a useful direction. That might be a request, a boundary, a five-minute task, a repair attempt, or a wellness action. See [Interpersonal effectiveness](interpersonal-effectiveness.qmd), [Goal setting](goal-setting.qmd), and [Wellness](wellness.qmd).
+
+### 4. Widen the system
+
+Not every useful action is problem solving. Rest, play, curiosity, and making something can restore flexibility and interest. See [Recreativity](recreativity.qmd).
+
+::: {.tsk-note}
+**Tool rule:** use the smallest skill that is likely to help with the current job. If it does not help, reassess the job instead of assuming you failed at the skill.
+:::
+
+## Skill families
+
+| Area | Best used for | Examples |
+|---|---|---|
+| Distress tolerance | Getting through a high-intensity moment | STOP, grounding, paced breathing |
+| Mindfulness | Returning attention to what is happening now | Observe and describe, one-mindfully |
+| Emotion regulation | Understanding and changing emotional responses | Check the facts, opposite action |
+| CBT | Examining predictions and behavior patterns | Thought record, behavioral activation |
+| Interpersonal effectiveness | Requests, boundaries, conflict, repair | DEAR MAN, GIVE, FAST |
+| Goal setting | Turning direction into action | Tiny next step, implementation intentions |
+| Wellness | Supporting capacity and consistency | Sleep routine, movement, basic-needs check |
+| Recreativity | Reintroducing curiosity, play, and novelty | Creative reset, play window |
