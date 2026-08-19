@@ -1,0 +1,63 @@
+---
+title: "Goal setting"
+description: "Turn values and intentions into small, observable actions."
+---
+
+::: {.tsk-page-lede}
+A useful goal connects a direction that matters to an action that can happen in real life. The aim is not to create the perfect plan, but to make the next useful behavior easier to start.
+:::
+
+## Values to goals {#values-to-goals}
+
+A **value** is a direction, such as being dependable, creative, healthy, connected, or curious. A **goal** is a result or milestone that can show progress in that direction.
+
+Try this sequence:
+
+1. Name the direction that matters.
+2. Pick one result that would express that direction.
+3. Identify what is under your control this week.
+4. Define a next action that can be seen or completed.
+
+Example: "I want to be more connected" is a direction. "Message Sam by Friday and suggest a walk" is an action.
+
+## Tiny next step {#tiny-next-step}
+
+When a task feels too large, reduce the size without abandoning the direction.
+
+Ask: **What is the smallest action that would count as starting?**
+
+Examples:
+
+- Open the document and write one sentence.
+- Put the shoes by the door.
+- Find the phone number before making the call.
+- Spend five minutes sorting one surface.
+
+A tiny step is not meant to finish the whole problem. Its job is to reduce friction and create momentum.
+
+## Implementation intention {#implementation-intention}
+
+Turn a vague intention into an if-then plan:
+
+> If **a specific cue happens**, then I will **do a specific action**.
+
+Examples:
+
+- If I finish breakfast, then I will take my medication as prescribed.
+- If I notice I am scrolling instead of starting, then I will set a five-minute timer and open the task.
+- If I get home from work, then I will change clothes and walk for ten minutes before sitting down.
+
+The cue should be easy to recognize, and the action should be small enough to perform on a difficult day.
+
+## Review without punishment
+
+At the end of the week, ask:
+
+- What did I actually do?
+- What made the action easier?
+- Where did the plan depend on motivation that was not available?
+- What should be smaller, clearer, earlier, or better supported next time?
+
+::: {.tsk-note}
+A missed goal is information about the plan and the conditions around it. Use the information to redesign the next attempt.
+:::
