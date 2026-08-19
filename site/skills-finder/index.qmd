@@ -1,0 +1,57 @@
+---
+title: "Skills Finder"
+description: "Describe the moment and get links to relevant skills in the Learn library."
+toc: false
+page-layout: full
+---
+
+:::::::: {.tsk-section}
+::: {.tsk-eyebrow}
+SKILLS FINDER
+:::
+
+# What would be useful right now?
+
+::: {.tsk-page-lede}
+Choose any feelings that fit, add a short description if you want, and set the intensity. The finder ranks learning links from the local skill catalog. Your text is processed in your browser and is not stored by this site.
+:::
+
+<form id="skills-finder-form" class="tsk-finder" autocomplete="off">
+  <div class="tsk-finder-panel">
+    <fieldset>
+      <legend><strong>What are you feeling?</strong></legend>
+      <div class="tsk-feeling-grid" aria-label="Feelings">
+        <button class="tsk-chip" type="button" data-feeling="anxious" aria-pressed="false">Anxious</button>
+        <button class="tsk-chip" type="button" data-feeling="overwhelmed" aria-pressed="false">Overwhelmed</button>
+        <button class="tsk-chip" type="button" data-feeling="angry" aria-pressed="false">Angry</button>
+        <button class="tsk-chip" type="button" data-feeling="low" aria-pressed="false">Low</button>
+        <button class="tsk-chip" type="button" data-feeling="numb" aria-pressed="false">Numb</button>
+        <button class="tsk-chip" type="button" data-feeling="lonely" aria-pressed="false">Lonely</button>
+        <button class="tsk-chip" type="button" data-feeling="stuck" aria-pressed="false">Stuck</button>
+        <button class="tsk-chip" type="button" data-feeling="ashamed" aria-pressed="false">Ashamed</button>
+        <button class="tsk-chip" type="button" data-feeling="conflicted" aria-pressed="false">In conflict</button>
+        <button class="tsk-chip" type="button" data-feeling="impulsive" aria-pressed="false">Impulsive</button>
+      </div>
+    </fieldset>
+
+    <label for="situation">What is happening?</label>
+    <textarea id="situation" name="situation" placeholder="For example: I keep replaying an argument and want to send an angry message."></textarea>
+
+    <label for="intensity">Intensity, 1 to 10</label>
+    <div class="tsk-intensity-row">
+      <input id="intensity" name="intensity" type="range" min="1" max="10" value="5">
+      <output id="intensity-value" for="intensity">5</output>
+    </div>
+
+    <button class="tsk-button" type="submit">Find skills</button>
+
+    <div id="skill-results" class="tsk-results" aria-live="polite" aria-label="Skill recommendations"></div>
+  </div>
+</form>
+
+::: {.tsk-note}
+**Scope:** this app recommends educational material. It does not diagnose, assess risk, or provide emergency support. If there is immediate danger, use appropriate local emergency or crisis support instead of relying on this tool.
+:::
+::::::::
+
+<script src="../assets/skills-finder.js" defer></script>
