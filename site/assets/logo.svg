@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Therapy Skill Kit</title>
+  <desc id="desc">A simple open toolkit mark</desc>
+  <rect x="8" y="8" width="104" height="104" rx="24" fill="#11182f"/>
+  <path d="M35 40h50v10H65v35H55V50H35z" fill="#f3e8dc"/>
+  <circle cx="86" cy="84" r="8" fill="#a96845"/>
+</svg>
