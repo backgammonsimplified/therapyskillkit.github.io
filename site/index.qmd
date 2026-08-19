@@ -1,0 +1,43 @@
+---
+title: "Therapy Skill Kit"
+description: "Learn practical CBT, DBT, mindfulness, wellness, and goal-setting skills, then find a skill that fits the moment."
+page-layout: full
+toc: false
+format:
+  html:
+    body-classes: "tsk-landing-page"
+---
+
+:::::::: {.tsk-hero}
+::: {.tsk-eyebrow}
+THERAPY SKILL KIT
+:::
+
+# Build skills for the moment you are in.
+
+::: {.tsk-hero-copy}
+Clear, practical learning for CBT, DBT, mindfulness, relationships, wellness, creativity, and goal setting.
+:::
+::::::::
+
+:::::::: {.tsk-section}
+## Choose where to begin
+
+:::: {.tsk-grid}
+[<span class="tsk-card-title">Start learning</span><span class="tsk-card-copy">Browse the skill library by problem, skill family, or goal.</span>](learn/index.qmd){.tsk-card}
+
+[<span class="tsk-card-title">Use the Skills Finder</span><span class="tsk-card-copy">Describe how you feel and get links to relevant learning pages.</span>](skills-finder/index.qmd){.tsk-card}
+
+[<span class="tsk-card-title">Set a goal</span><span class="tsk-card-copy">Turn a direction into a small next action you can actually do.</span>](learn/goal-setting.qmd){.tsk-card}
+
+[<span class="tsk-card-title">Get through a hard moment</span><span class="tsk-card-copy">Use distress-tolerance and grounding skills before deciding what comes next.</span>](learn/distress-tolerance.qmd){.tsk-card}
+::::
+::::::::
+
+:::::::: {.tsk-section}
+## What this site is for
+
+Therapy Skill Kit is an educational toolkit. It is designed to help people learn and practice common skills associated with CBT, DBT, mindfulness, behavior change, and general wellness.
+
+It is not a diagnosis tool, crisis service, or substitute for individualized medical or mental-health care. The Skills Finder recommends learning material, not treatment.
+::::::::
