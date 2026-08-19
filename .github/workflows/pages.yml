@@ -1,4 +1,4 @@
-name: Deploy static site to Pages
+name: Build and deploy Quarto site
 
 on:
   push:
@@ -15,20 +15,34 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  build-deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Check out repository
         uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Build and validate site
+        run: bash scripts/build-site.sh
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
-      - name: Upload artifact
+
+      - name: Upload rendered site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: site/_site
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
